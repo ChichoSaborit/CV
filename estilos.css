@@ -12,12 +12,14 @@
     background-color: #180270;
     padding: 10px;
   }
-  .grid-item {
+
+.grid-item {
     background-color: rgb(255, 255, 255);
-    border: 5px solid #180270;
+    border: 10px solid #180270;
     padding: 20px;
     text-align: center;
   }
+
 h1 {
     font-family: 'Kalam', cursive;
     font-size: 80px;
@@ -175,3 +177,4 @@ display: none;
   #mensaje{
     resize: none;
   }
+
